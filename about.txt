@@ -1,0 +1,4 @@
+Name : Uday Kanchi
+Course : BSC CS
+It's an platform to store and manage data best for committments history
+means me see the previous and after commits ti understand what we updated everytime
